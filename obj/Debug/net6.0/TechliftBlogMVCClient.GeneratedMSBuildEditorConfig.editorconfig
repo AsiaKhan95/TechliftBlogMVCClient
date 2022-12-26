@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TechliftBlogMVCClient
+build_property.RootNamespace = TechliftBlogMVCClient
+build_property.ProjectDir = /home/asia/dotnet-workspace/TechliftBlogMVCClient/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/asia/dotnet-workspace/TechliftBlogMVCClient
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Home/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_BlogSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19CbG9nU2VjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_BottomGrids.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19Cb3R0b21Hcmlkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_ContentGrids.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19Db250ZW50R3JpZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_DomainModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19Eb21haW5Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_FeaturesGrids6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19GZWF0dXJlc0dyaWRzNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_MainSlider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19NYWluU2xpZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_NewsGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19OZXdzR3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_Newsletter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19OZXdzbGV0dGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_Specification6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19TcGVjaWZpY2F0aW9uNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_Testimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19UZXN0aW1vbmlhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/Partials/_W3lContentWithPhoto4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19XM2xDb250ZW50V2l0aFBob3RvNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/_BlogLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19CbG9nTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/asia/dotnet-workspace/TechliftBlogMVCClient/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vjyq3hmuh2
